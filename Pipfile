@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+mpl-finance = "*"
+pandas = "*"
+pandas-datareader = "*"
+pyecharts = "*"
+pyecharts-javascripthon = "*"
+pyecharts-jupyter-installer = "*"
+pyecharts-snapshot = "*"
+matplotlib = "*"
+tushare = "*"
+
+[requires]
+python_version = "3.7"
